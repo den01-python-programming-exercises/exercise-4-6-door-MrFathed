@@ -4,8 +4,8 @@ def main():
     #write your code below this line
     alexander = Door()
 
-    alexander.knock()
-    alexander.knock()
+    print(alexander.knock())
+    print(alexander.knock())
 
 if __name__ == '__main__':
     main()

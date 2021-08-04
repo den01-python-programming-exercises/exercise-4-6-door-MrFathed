@@ -1,4 +1,4 @@
 class Door:
 
     def knock(self):
-        print("Who's there?")
+        return "Who's there?"
